@@ -4,15 +4,22 @@ This project template was built with [Create React App](https://github.com/faceb
 
 ## Getting started
 
-<br><br>First, clone the git repo.
-### `git clone `
+First, clone the git repo.
+```sh
+$ git clone https://github.com/NizarOukhchi/ReactReduxTodo.git
+```
 
-<br><br>Install dependencies
-### `npm install`
+Install dependencies
+```sh
+$ cd ReactReduxTodo
+$ npm install
+```
 
-<br><br>Runs the app in the development mode.<br>
+Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `npm start`
+Install dependencies
+```sh
+$ npm start
+```
 
 Enjoy.
