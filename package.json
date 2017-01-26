@@ -1,0 +1,20 @@
+{
+  "name": "ReactReduxTodo",
+  "description": "Petite application Todo pour apprendre React et Redux",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "enzyme": "^2.4.1",
+    "react-addons-test-utils": "^15.3.0",
+    "react-scripts": "^0.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  }
+}
